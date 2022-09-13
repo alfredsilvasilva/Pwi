@@ -1,0 +1,41 @@
+
+.header{
+    top: 0;
+    background-color: rgb(227, 163, 163);
+    width: 100%;
+    height: 60px;
+    position: relative;
+}
+h2{
+    position: relative;
+    color: Red;
+    padding: 20px;
+}
+.navegator{
+    position:absolute;
+    right: 20px;
+    top: 5px;
+    text-decoration: none;
+
+}
+
+.navegator li  {
+    display: inline-flex;
+    text-decoration: none;
+}
+.navegator a{
+    font-size: 20px;
+    padding:5px;
+    text-decoration: none;
+}
+body{
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-image:url(/IMG/still-life-peace-day-arrangement-with-flower.jpg);
+}
+.poema p{
+    text-align: left;
+    padding-left:90px;
+    font-size: 60px;
+    color: rgb(199, 135, 135);
+}
