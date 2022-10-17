@@ -22,6 +22,15 @@ h2{
     text-decoration: none;
 
 }
+.carrossel{
+    position: absolute;
+ 
+    right: 100px;
+    width:600px;
+    height: 300px;
+   
+
+}
 
 .navegator li  {
     display: inline-flex;
